@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 
 const students = [
-  { id: 1, name: "Andi", major: "Informatika" },
-  { id: 2, name: "Budi", major: "Sistem Informasi" },
-  { id: 3, name: "Citra", major: "Teknologi Informasi" },
+  { id: 1, name: "Dani", major: "Perikanan" },
+  { id: 2, name: "Heri", major: "Kehutanan" },
+  { id: 3, name: "Jeffry", major: "Teknologi Informasi`" },
 ];
 
 const Students = () => {
