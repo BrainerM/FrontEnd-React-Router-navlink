@@ -22,3 +22,9 @@
 
 .delay-100 { animation-delay: 0.1s; }
 .delay-200 { animation-delay: 0.2s; }
+
+.bg-animated {
+  background: linear-gradient(270deg, #e0f2fe, #bae6fd, #dbeafe);
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
+}
