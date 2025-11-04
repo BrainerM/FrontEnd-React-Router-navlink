@@ -45,12 +45,12 @@ const About = () => {
             {/* DESKRIPSI PROFIL */}
             <div className="text-center md:text-left space-y-4">
               <h2 className="text-3xl font-bold text-blue-700">
-                Brainer Mundung
+                Brainer Keneth Mundung
               </h2>
 
               <div className="flex flex-col items-center md:items-start text-gray-700 space-y-1">
-                <p><strong>ID / NIM:</strong> 123456789</p>
-                <p><strong>Jurusan:</strong> Pendidikan Teknologi Informasi</p>
+                <p><strong>ID / NIM:</strong> 105022310127</p>
+                <p><strong>Jurusan:</strong> Informatika</p>
               </div>
 
               <p className="text-gray-700 leading-relaxed">
